@@ -1,0 +1,6 @@
+{
+  "name": "SmartBarrio",
+  "description": "Presencia digital para comercios locales de Mendoza con catálogo interactivo, WhatsApp y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
